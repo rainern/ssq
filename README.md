@@ -1,0 +1,2 @@
+# ssq
+Steam Server Query
